@@ -6,7 +6,7 @@ numpy
 
 matplotlib
 
-###can install with 
+### can install with 
 
     python3 -m pip install numpy
     python3 -m pip install matplotlib.pyplot
@@ -26,6 +26,9 @@ slope W : change the step in y
 #### intercept 
 intercept is B  : when start the line
 ![diy_linear_regresion](diy_linear_regresion.png)
+# NOTE 
+python3 diy_linear regression.py dont work like a real linear regresion why is not linear
+
 ### contributes with donations
 	
 	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
