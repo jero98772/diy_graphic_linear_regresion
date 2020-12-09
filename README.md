@@ -30,4 +30,4 @@ intercept is B  : when start the line
 linear regresion is function with pow 1 , have a form of a line 
 ### contributes with donations
 	
-	- Bitcoin: tb1qgt4trnnsxdmfcpnydkmk8ht0y4esg4cdvzmhaz
+	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
