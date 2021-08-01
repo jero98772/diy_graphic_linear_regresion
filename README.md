@@ -28,6 +28,3 @@ intercept is B  : when start the line
 ![diy_linear_regresion](diy_linear_regresion.png)
 # NOTE 
 linear regresion is function with pow 1 , have a form of a line 
-### contributes with donations
-	
-	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
